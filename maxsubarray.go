@@ -1,6 +1,6 @@
 package main
 
-/* O(log n) Divide and Conquer Implementation of Maximum Sub Array Problem
+/* O(n log n) Divide and Conquer Implementation of Maximum Sub Array Problem
 See https://en.wikipedia.org/wiki/Maximum_subarray_problem for details
 of the problem.
 */
